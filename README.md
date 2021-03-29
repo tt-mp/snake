@@ -1,2 +1,1 @@
-Snake+
-Eating good spawns evil.
+Snake+: Eating good spawns evil.
